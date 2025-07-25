@@ -1,0 +1,6 @@
+langgraph
+pydantic
+tqdm
+openai
+fastapi
+python-dotenv
