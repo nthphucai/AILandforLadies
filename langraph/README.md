@@ -28,15 +28,6 @@ Before you begin, ensure you have the following installed:
     pip install -r requirements.txt
     ```
 
-3.  **Configure Environment Variables:**
-    Create a file named `.env` in the project's root directory and add the following content. These variables are necessary for the application to function correctly.
-
-    ```env
-    ollama_api_key="ollama"
-    ollama_model="gemma3:4b"
-    docker_desktop_enabled=False
-    ```
-
 ## Step 2: Run the Application
 
 With the environment configured, you can launch the LangGraph agents using the main application script:
